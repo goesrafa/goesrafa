@@ -1,7 +1,7 @@
 ### Olá! Me chamo Rafaela Góes 😁
 
-- ✔ Estudante do último semestre no curso de Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando atualmente: JavaScript e React
+- ✔ Tecnóloga em Analise e Desenvolvimento de Sistemas
+- 🌱 Estudando atualmente: JavaScript, React, C# e afins
 - 😄 Pronouns: ela/dela
 
 

@@ -1,9 +1,9 @@
 ### Olá! Me chamo Rafaela Góes 😁
 
-- ✔ Tecnóloga em Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando atualmente: JavaScript, React, C# e afins
+- ✔ Tecnóloga em Analise e Desenvolvimento de Sistemas - Fatec Itu
+- 🌱 Estudando atualmente: JavaScript, React (Native, Js)
 - 😄 Pronouns: ela/dela
-
+- 👩‍💻 Back-Officer Mind Consulting
 
 <div>
   <a href="https://github.com/goesrafa">

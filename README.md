@@ -1,8 +1,7 @@
 ### Olá! Me chamo Rafaela Góes 😁
 
-- ✔ Tecnóloga em Analise e Desenvolvimento de Sistemas - Fatec Itu
-- 🌱 Estudando atualmente: JavaScript, React (Native, Js)
-- 😄 Pronouns: ela/dela
+- 👩‍🎓 Tecnóloga em Analise e Desenvolvimento de Sistemas - Fatec Itu
+- 📜 Estudando atualmente: JavaScript, React (Native, Js)
 - 👩‍💻 Back-Officer Mind Consulting
 
 <div>

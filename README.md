@@ -1,7 +1,7 @@
 ### Olá! Me chamo Rafaela Góes 😁
 
 - 👩‍🎓 Tecnóloga em Analise e Desenvolvimento de Sistemas - Fatec Itu
-- 📜 Estudando atualmente: JavaScript, React (Native, Js)
+- 📜 Estudando atualmente: JavaScript || React (Native, Js) || Prisma || Expo || Express
 - 👩‍💻 Back-Officer Mind Consulting
 
 <div>

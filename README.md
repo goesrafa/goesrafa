@@ -1,8 +1,7 @@
 ### Olá! Me chamo Rafa Góes 😁
 
 - 👩‍🎓 Tecnóloga em Analise e Desenvolvimento de Sistemas - Fatec Itu
-- 📜 Estudando atualmente: JavaScript || React (Native, Js) || Prisma || Expo || Express
-- 👩‍💻 Back-Officer Mind Consulting
+- 📜 Estudando atualmente: TypeScript || React (Native, Js) || Prisma || Expo || Express
 
 <div>
   <a href="https://github.com/goesrafa">

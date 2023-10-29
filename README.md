@@ -1,7 +1,7 @@
 ### Olá! Me chamo Rafa Góes 😁
 
 - 👩‍🎓 Tecnóloga em Analise e Desenvolvimento de Sistemas - Fatec Itu
-- 📜 Estudando atualmente: TypeScript || React (Native, Js) || Prisma || Expo || Express || NodeJs 
+- 📜 Estudando atualmente: TypeScript || React (Native, Js) || Prisma || Expo || Express || NodeJs || Flutter
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
